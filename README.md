@@ -8,7 +8,10 @@
 
 - :office: &nbsp;I'm currenly searching for a job
 - 🎮 &nbsp;I'm working with a team of eleven people in [Fast-And-Fractured](https://github.com/CEVR-ICALES/Fast-And-Fractured) [![Made with Unity](https://img.shields.io/badge/Made%20with-Unity-57b9d3.svg?style=plastic&logo=unity)](https://unity3d.com)
-- Graduated in cross-platform applications and video game developement and in a videogame and virtual reality specialitzation course.
+- 🎓 &nbsp; Graduated in cross-platform applications and video game developement and in a videogame and virtual reality specialitzation course.
+- Always happy to push my skills to the next level and learn new ones.
+- On my free time, I enjoy thinking about new videogames ideas and competing in fighting games. 
+- See my [resume](https://drive.google.com/drive/folders/1xeybg-22nFxtYBXqKTHVYLSFpjEqMKFk) for more information about me 
 
 
 
