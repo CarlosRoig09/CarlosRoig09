@@ -1,4 +1,8 @@
-<h2 align="center">Nice to meet you! I'm Carlos Roig a junior game developer</h2>
+<h2 align="center">Nice to meet you! :wave: I'm Carlos Roig a junior game developer</h2>
+<p align="left">
+<a href="mailto:carlos.roig.garcia@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>&nbsp;
+<a href="https://www.linkedin.com/in/carlos-roig-garcia/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
+</p>
 
 
 <!--
