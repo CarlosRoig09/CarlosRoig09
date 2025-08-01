@@ -6,6 +6,11 @@
 <a href="https://x.com/CarlosRoigG"><img alt="X" src="https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white"/></a>&nbsp;
 </p>
 
+- :office: &nbsp;I'm currenly searching for a job
+- [![Made with Unity](https://img.shields.io/badge/Made%20with-Unity-57b9d3.svg?style=plastic&logo=unity)](https://unity3d.com) &nbsp;I'm working with a team of eleven people in **[Fast-And-Fractured]** 
+
+
+
 
 <!--
 **CarlosRoig09/CarlosRoig09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
