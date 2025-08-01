@@ -7,7 +7,7 @@
 </p>
 
 - :office: &nbsp;I'm currenly searching for a job
-- 🎮 &nbsp;I'm working with a team of eleven people in [Fast-And-Fractured](https://github.com/CEVR-ICALES/Fast-And-Fractured)
+- 🎮 &nbsp;I'm working with a team of eleven people in [Fast-And-Fractured](https://github.com/CEVR-ICALES/Fast-And-Fractured) [![Made with Unity](https://img.shields.io/badge/Made%20with-Unity-57b9d3.svg?style=plastic&logo=unity)](https://unity3d.com)
 
 
 
