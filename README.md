@@ -13,7 +13,7 @@
 - :chart_with_upwards_trend: &nbsp; Always happy to push my skills to the next level and learn new ones.
 - :bulb: &nbsp; On my free time, I enjoy thinking about new video game ideas and competing in fighting games. 
 - :mailbox:&nbsp; See my [linktree](https://linktr.ee/carlos.roig.garcia9) for more information about me 
-
+<h2>Digital Skills
 <h3>Languages</h3>
 <p>
 <img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visualstudio&logoColor=white" alt="Visual Studio" />
@@ -33,8 +33,7 @@
 <p>
 <a href="mailto:carlos.roig.garcia@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"></a>&nbsp;
 </p>
-
-
+</h2>
 
 <!--
 **CarlosRoig09/CarlosRoig09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
