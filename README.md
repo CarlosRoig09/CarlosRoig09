@@ -11,7 +11,7 @@
 - 🎓 &nbsp; Graduated in cross-platform applications and video game developement and in a videogame and virtual reality specialitzation course.
 - Always happy to push my skills to the next level and learn new ones.
 - On my free time, I enjoy thinking about new videogames ideas and competing in fighting games. 
-- See my [resume](https://drive.google.com/drive/folders/1xeybg-22nFxtYBXqKTHVYLSFpjEqMKFk) for more information about me 
+- See my [linktree](https://linktr.ee/carlos.roig.garcia9) for more information about me 
 
 
 
