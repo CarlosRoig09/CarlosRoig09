@@ -16,8 +16,6 @@
 <h3>Languages</h3>
 <p>
 <a href="mailto:carlos.roig.garcia@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"></a>&nbsp;
-<h4>Learning</h4>
-<a href="mailto:carlos.roig.garcia@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"></a>&nbsp;
 </p>
 
 <h3>Software</h3>
