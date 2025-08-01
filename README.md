@@ -1,7 +1,7 @@
 <h2 align="center">Nice to meet you! :wave: I'm Carlos Roig a junior game developer</h2>
 <p align="center">
-<a href="mailto:carlos.roig.garcia@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>&nbsp;
-<a href="https://www.linkedin.com/in/carlos-roig-garcia/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
+<a href="mailto:carlos.roig.garcia@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"></a>&nbsp;
+<a href="https://www.linkedin.com/in/carlos-roig-garcia/"><img alt="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"/></a>&nbsp;
 <a href="https://carlos-roig-garcia.itch.io/"><img alt="Itch.io" src="https://img.shields.io/badge/itch.io-%23FF0B34.svg?logo=Itch.io&logoColor=white"/></a>&nbsp;
 </p>
 
