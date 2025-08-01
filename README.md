@@ -16,7 +16,7 @@
 
 <h3>Languages</h3>
 <p>
-![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visualstudio&logoColor=white)&nbsp;
+<img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visualstudio&logoColor=white" alt="Visual Studio" />
 </p>
 
 <h3>Software</h3>
