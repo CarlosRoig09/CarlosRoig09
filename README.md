@@ -6,12 +6,12 @@
 <a href="https://x.com/CarlosRoigG"><img alt="X" src="https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white"/></a>&nbsp;
 </p>
 
-- :office: &nbsp;I'm currenly searching for a job
+- :eyes: &nbsp;I'm currenly searching for a job
 - 🎮 &nbsp;I'm working with a team of eleven people in [Fast-And-Fractured](https://github.com/CEVR-ICALES/Fast-And-Fractured) [![Made with Unity](https://img.shields.io/badge/Made%20with-Unity-57b9d3.svg?style=plastic&logo=unity)](https://unity3d.com)
-- 🎓 &nbsp; Graduated in cross-platform applications and video game developement and in a videogame and virtual reality specialitzation course.
-- Always happy to push my skills to the next level and learn new ones.
-- On my free time, I enjoy thinking about new videogames ideas and competing in fighting games. 
-- See my [linktree](https://linktr.ee/carlos.roig.garcia9) for more information about me 
+- 🎓 &nbsp;Graduated in cross-platform applications and video game developement and in a videogame and virtual reality course.
+- :chart_with_upwards_trend: &nbsp; Always happy to push my skills to the next level and learn new ones.
+- :bulb: &nbsp; On my free time, I enjoy thinking about new video game ideas and competing in fighting games. 
+- :mailbox:&nbsp; See my [linktree](https://linktr.ee/carlos.roig.garcia9) for more information about me 
 
 
 
