@@ -1,4 +1,4 @@
-<h1>Nice to meet you! I'm Carlos Roig a junior game developer</h1>
+<h2 align="center">Nice to meet you! I'm Carlos Roig a junior game developer</h2>
 
 
 <!--
