@@ -13,17 +13,13 @@
 - :chart_with_upwards_trend: &nbsp; Always happy to push my skills to the next level and learn new ones.
 - :bulb: &nbsp; On my free time, I enjoy thinking about new video game ideas and competing in fighting games. 
 - :mailbox:&nbsp; See my [linktree](https://linktr.ee/carlos.roig.garcia9) for more information about me 
+
+
 <h2>Digital Skills</h2>
-<h3>Languages</h3>
-<p>
 
 ![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white)
-
-
-<h3>Software</h3>
-<p>
 
 ![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visualstudio&logoColor=white)
 
@@ -31,13 +27,9 @@
 
 ![Rider](https://img.shields.io/badge/Rider-000?logo=rider&logoColor=fff)
 
-
-<h3>Game Engines</h3>
-
 ![Unity](https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white)
 
 ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-%23313131.svg?logo=unrealengine&logoColor=white)
-
 
 <h3>Learning</h3>
 
@@ -47,20 +39,4 @@
 
 ![Astro](https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=fff)
 
-</p>
 
-
-<!--
-**CarlosRoig09/CarlosRoig09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
