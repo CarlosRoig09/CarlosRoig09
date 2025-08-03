@@ -16,12 +16,12 @@
 <h2>Digital Skills
 <h3>Languages</h3>
 <p>
-<img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visualstudio&logoColor=white" alt="Visual Studio" />
 </p>
 
 <h3>Software</h3>
 <p>
-<a href="mailto:carlos.roig.garcia@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"></a>&nbsp;
+<img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visualstudio&logoColor=white" alt="Visual Studio" />
+<img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visualstudio&logoColor=white" alt="Visual Studio" />
 </p>
 
 <h3>Game Engines</h3>
@@ -35,6 +35,10 @@
 </p>
 </h2>
 
+| Languages     | Software      | Game Engines  |
+| ------------- | ------------- | ------------- |
+| Content Cell  | ![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visualstudio&logoColor=white)  |
+| Content Cell  | Content Cell  |
 <!--
 **CarlosRoig09/CarlosRoig09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
