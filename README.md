@@ -15,10 +15,10 @@
 - :mailbox:&nbsp; See my [linktree](https://linktr.ee/carlos.roig.garcia9) for more information about me 
 <h2>Digital Skills
 <h3>Languages</h3>
-<p markdown>
+<figure markdown>
 ![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white)
-</p>
+</figure>
 
 <h3>Software</h3>
 <p>
