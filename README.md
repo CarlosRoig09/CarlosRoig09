@@ -35,10 +35,10 @@
 </p>
 </h2>
 
-| Languages     | Software      | Game Engines  |
+| Languages     | ![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)|![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white)| ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)|
 | ------------- | ------------- | ------------- |
-| Content Cell  | ![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visualstudio&logoColor=white)  |
-| Content Cell  | Content Cell  |
+| Software      | ![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visualstudio&logoColor=white)|
+| Game Engines  | Content Cell  |
 <!--
 **CarlosRoig09/CarlosRoig09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
