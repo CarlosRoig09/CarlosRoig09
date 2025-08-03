@@ -13,7 +13,7 @@
 - :chart_with_upwards_trend: &nbsp; Always happy to push my skills to the next level and learn new ones.
 - :bulb: &nbsp; On my free time, I enjoy thinking about new video game ideas and competing in fighting games. 
 - :mailbox:&nbsp; See my [linktree](https://linktr.ee/carlos.roig.garcia9) for more information about me 
-<h2>Digital Skills
+<h2>Digital Skills</h2>
 <h3>Languages</h3>
 <p>
 
@@ -21,7 +21,6 @@
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white)
 
-</p>
 
 <h3>Software</h3>
 <p>
@@ -31,19 +30,16 @@
 ![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)
 
 ![Rider](https://img.shields.io/badge/Rider-000?logo=rider&logoColor=fff)
-</p>
+
 
 <h3>Game Engines</h3>
-<p>
 
 ![Unity](https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white)
 
 ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-%23313131.svg?logo=unrealengine&logoColor=white)
 
-</p>
 
 <h3>Learning</h3>
-<p>
 
 ![Godot Engine](https://img.shields.io/badge/Godot-%23FFFFFF.svg?logo=godot-engine)
 
@@ -52,6 +48,7 @@
 ![Astro](https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=fff)
 
 </p>
+
 
 <!--
 **CarlosRoig09/CarlosRoig09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
