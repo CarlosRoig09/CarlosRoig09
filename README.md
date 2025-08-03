@@ -16,28 +16,28 @@
 <h2>Digital Skills
 <h3>Languages</h3>
 <p>
-![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white)
+![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)&nbsp;
+![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white)&nbsp;
 </p>
 
 <h3>Software</h3>
 <p>
-![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visualstudio&logoColor=white)
-![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)
-![Rider](https://img.shields.io/badge/Rider-000?logo=rider&logoColor=fff)
+![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visualstudio&logoColor=white)&nbsp;
+![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)&nbsp;
+![Rider](https://img.shields.io/badge/Rider-000?logo=rider&logoColor=fff)&nbsp;
 </p>
 
 <h3>Game Engines</h3>
 <p>
-![Unity](https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white)
-![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-%23313131.svg?logo=unrealengine&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white)&nbsp;
+![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-%23313131.svg?logo=unrealengine&logoColor=white)&nbsp;
 </p>
 
 <h3>Learning</h3>
 <p>
-![Godot Engine](https://img.shields.io/badge/Godot-%23FFFFFF.svg?logo=godot-engine)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)
-![Astro](https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=fff)
+![Godot Engine](https://img.shields.io/badge/Godot-%23FFFFFF.svg?logo=godot-engine)&nbsp;
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)&nbsp;
+![Astro](https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=fff)&nbsp;
 </p>
 
 <!--
