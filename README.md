@@ -15,28 +15,38 @@
 - :mailbox:&nbsp; See my [linktree](https://linktr.ee/carlos.roig.garcia9) for more information about me 
 
 
-<h2>Digital Skills</h2>
+<h2 align="center">Digital Skills</h2>
+<p align="center">
+  <img title="C#" height="25" src="https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white">
+    <img title="Unity" height="25" src="https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white">
+    <img title="Visual Studio" height="25" src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visualstudio&logoColor=white">
+    <img title="Visual Studio Code" height="25" src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white">
+    <img title="Unreal Engine" height="25" src="https://img.shields.io/badge/Unreal%20Engine-%23313131.svg?logo=unrealengine&logoColor=white">
+    <img title="Kotlin" height="25" src="https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white">
+    <img title="Rider" height="25" src="https://img.shields.io/badge/Rider-000?logo=rider&logoColor=fff">
+    <img title="Postgres" height="25" src="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white">
+    <img title="MongoDB" height="25" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white">
+    <img title="HTML" height="25" src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white">
+    <img title="CSS" height="25" src="https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff">
+</p>
+<h3 align="center">Learning</h3>
+<p align="center">
+<img title="Godot Engine" height="25" src="https://img.shields.io/badge/Godot-%23FFFFFF.svg?logo=godot-engine">
+<img title="C++" height="25" src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white">
+<img title="Astro" height="25" src="https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=fff">
+<img title="Python" height="25" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff">
+</p>
 
-![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)
+<h2 align="center">Personal Projects</h2>
+<div align="center">
+<a href="https://github.com/CEVR-ICALES/Fast-And-Fractured"><img alt="Fast-And-Fractured" src="./images/fastAndFractured.jpg" height="250"/></a>
+</div>
+<div align="center">
+<a href="https://github.com/CarlosRoig09/RelaxingCatAndCoffee"><img alt="Fast-And-Fractured" src="./images/relaxingCatAndCoffee.jpg" height="150"/></a>
+<a href="https://github.com/CarlosRoig09/RogueLike/"><img alt="Fast-And-Fractured" src="./images/rogueLike.jpg" height="150"/></a>
+</div>
 
-![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white)
 
-![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visualstudio&logoColor=white)
 
-![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)
-
-![Rider](https://img.shields.io/badge/Rider-000?logo=rider&logoColor=fff)
-
-![Unity](https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white)
-
-![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-%23313131.svg?logo=unrealengine&logoColor=white)
-
-<h3>Learning</h3>
-
-![Godot Engine](https://img.shields.io/badge/Godot-%23FFFFFF.svg?logo=godot-engine)
-
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)
-
-![Astro](https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=fff)
 
 
