@@ -42,8 +42,9 @@
 <a href="https://github.com/CEVR-ICALES/Fast-And-Fractured"><img alt="Fast-And-Fractured" src="./images/fastAndFractured.jpg" height="250"/></a>
 </div>
 <div align="center">
-<a href="https://github.com/CarlosRoig09/RelaxingCatAndCoffee"><img alt="Fast-And-Fractured" src="./images/relaxingCatAndCoffee.jpg" height="150"/></a>
-<a href="https://github.com/CarlosRoig09/RogueLike/"><img alt="Fast-And-Fractured" src="./images/rogueLike.jpg" height="150"/></a>
+<a href="https://github.com/CarlosRoig09/RelaxingCatAndCoffee/"><img alt="RelaxingCatAndCoffee" src="./images/relaxingCatAndCoffee.jpg" height="150"/></a>
+<a href="https://github.com/CarlosRoig09/BlindnessInferno/"><img alt="BlindnessInferno" src="./images/blindnessInferno.jpg" height="150"/></a>
+<a href="https://github.com/CarlosRoig09/RogueLike/"><img alt="RogueLike" src="./images/rogueLike.jpg" height="150"/></a>
 </div>
 
 
